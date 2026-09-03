@@ -40,7 +40,7 @@ SQL-анализ поведения игроков в зависимости о�
 ## 📊 Другие дашборды в DataLens
 
 - [Аналитика Dota 2](https://datalens.ru/d2i5g08zvaesw-analitika-dota-2)
-- [Дашборд](https://us.datalens-front.cloud.yandex.net/h5u435hayt1w0)
+- [Проект: TED-конференции]([https://us.datalens-front.cloud.yandex.net/h5u435hayt1w0](https://us.datalens-front.cloud.yandex.net/h5u435hayt1w0))
 
 ---
 
