@@ -1,16 +1,47 @@
-## Hi there 👋
+# Привет, я Анна 👋
 
-<!--
-**annadengina1106-cpu/annadengina1106-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Химик-технолог, в процессе перехода в аналитику данных. Совмещаю инженерный опыт с навыками работы с данными: от автоматизации расчётов на Python до SQL-анализа и визуализации в DataLens.
 
-Here are some ideas to get you started:
+📧 [anyahtml@yandex.ru](mailto:anyahtml@yandex.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Стек
+
+**Данные и аналитика:** `Python` · `pandas` · `SQL (PostgreSQL)` · `Jupyter Notebook` · `Yandex DataLens` · `Excel` · `Google Таблицы`
+
+**Разработка:** `PyCharm`
+
+**Инженерные и производственные системы:** `1С:ERP` · `КОМПАС-3D` · `КЕДРО` и другие инженерные CAD-программы
+
+---
+
+## 📂 Проекты
+
+### [🏠 Анализ рынка недвижимости СПб и ЛО](https://github.com/annadengina1106-cpu/real_estate_analysis)
+SQL-анализ объявлений о продаже недвижимости: время активности, сезонность рынка, факторы скорости продажи. Оконные функции, расчёт выбросов через перцентили, бизнес-рекомендации для покупателей и продавцов.
+**Стек:** SQL, PostgreSQL, DataLens
+🔗 [Дашборд](https://us.datalens-front.cloud.yandex.net/oee0exghnh7q7)
+
+### [🎮 Секреты Темнолесья — анализ игроков](https://github.com/annadengina1106-cpu/sql-game-analysis)
+SQL-анализ поведения игроков в зависимости от расы персонажа: доля платящих пользователей, аномальные покупки, топ популярных предметов, проверка гипотез и рекомендации по монетизации для каждой группы игроков.
+**Стек:** SQL
+
+### [🎲 Анализ рынка видеоигр (2000–2013)](https://github.com/annadengina1106-cpu/videogames_market_analysis)
+Предобработка и первичный анализ данных о продажах и оценках игр: очистка типов данных, обработка пропусков, фильтрация по периоду, категоризация по оценкам критиков и пользователей.
+**Стек:** Python, pandas, Jupyter Notebook
+
+### [🌡️ Расчёт кожухотрубчатого теплообменника](https://github.com/annadengina1106-cpu/heat_exchanger_calculation)
+Автоматизация инженерного расчёта теплообменника охлаждения бензола: тепловой баланс, подбор оборудования, интерполяция теплофизических свойств. Разработано в рамках профессиональной переподготовки в УрФУ.
+**Стек:** Python
+
+---
+
+## 📊 Другие дашборды в DataLens
+
+- [Аналитика Dota 2](https://datalens.ru/d2i5g08zvaesw-analitika-dota-2)
+- [Дашборд](https://us.datalens-front.cloud.yandex.net/h5u435hayt1w0)
+
+---
+
+*Открыта к предложениям стажировок в аналитике данных.*
